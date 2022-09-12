@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+.container-fluid{
+    width: 100%;
+    height: 100vh;
+   
+  
+}
+
+.container{
+    height: 80vh;
+    width: 70%;
+margin: 6% auto;
+
+   
+}
+
+
+img{
+    width: 18px;
+    height: 18px;
+}
+
+
+
+
